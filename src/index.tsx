@@ -20,7 +20,7 @@ createServer({
        },
        { 
         id: 2,
-        title: 'Gastando',
+        title: 'Gasto',
         type:'withdraw',
         category: 'Dev',
         amount: 1000,
