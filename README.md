@@ -44,7 +44,6 @@ Technologies that I used to develop this api
 - [Styled Components](https://styled-components.com/)
 - [React Icons](https://react-icons.netlify.com/#/)
 
-
 ## 💻 Getting started
 
 ### Requirements
